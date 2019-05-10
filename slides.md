@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Internals of Go Maps
 
 Gaurav Agarwal
 
@@ -31,7 +31,7 @@ ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-internals-of-go-maps
 
 Slides
-https://template.slides.algogrit.com
+https://internals-of-go-maps.slides.algogrit.com
