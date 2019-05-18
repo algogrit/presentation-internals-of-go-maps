@@ -34,6 +34,17 @@ ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 - Peeking into the standard library
 
 ---
+
+class: center, middle
+
+# 🙋‍♂️
+
+## Survey!
+
+# 🙋
+
+---
+
 class: center, middle
 
 ## What is a map?
