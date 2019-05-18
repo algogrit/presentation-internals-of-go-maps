@@ -56,6 +56,10 @@ img {
   padding-top: 1em;
 }
 
+.right-column.white {
+  background: white;
+}
+
 .image-credits {
   font-size: 10px;
   position: absolute;
